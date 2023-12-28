@@ -1,6 +1,6 @@
 # How to Build "Buy Me a Coffee" dApp
 
-In this project we created a tipping dApp that would let the users send ETH tips to a smart contract along with a message to the receiver of the tips. [Here](https://docs.alchemy.com/docs/how-to-build-buy-me-a-coffee-defi-dapp) you can find the full walkthrough. 
+In this project we created a tipping dApp that would let the users send ETH tips to a smart contract along with a message to the receiver of the tips. [Here](https://docs.alchemy.com/docs/how-to-build-buy-me-a-coffee-defi-dapp) you can find the full walkthrough. Also, you can follow this [link](https://buymeacoffee-solidity-defi-tipping-app.arynyestos.repl.co/) to the dApp and buy me a Sepolia coffee if you wish 😋.
 
 We developed our smart contract on Hardhat, wrote a script to interact with all of its functionality, then [deployed](https://sepolia.etherscan.io/address/0x1B536fd1F1D7DC8C93a891A67E6B91F953c3dFba) it on Sepolia and then created a front end through which users would be able to send the tips and the messages would be logged underneath.
 
